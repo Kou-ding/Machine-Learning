@@ -9,3 +9,9 @@ conda env create -f environment.yml
 # Install dependencies from requirements txt
 pip install -r requirements.txt
 ```
+
+### Create snapshot
+```bash
+conda env export > environment.yml
+pip freeze > requirements.txt
+```
