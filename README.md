@@ -15,3 +15,14 @@ pip install -r requirements.txt
 conda env export > environment.yml
 pip freeze > requirements.txt
 ```
+
+### Contents
+- Educational Jupyter Notebooks
+    - Linear Regression
+    - Trees
+    - Evaluation
+- Assignments
+
+Professor
+---------
+Τσουμάκας Γρηγόριος, *Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης*
